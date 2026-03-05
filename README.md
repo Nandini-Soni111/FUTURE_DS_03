@@ -1,3 +1,3 @@
 # FUTURE_DS_03
-MARKETING FUNNEL AND PERFORMANCE DASHBOARD
+MARKETING FUNNEL AND CONVERSION PERFORMANCE ANALYSIS
 In this task, I analyzed marketing and lead funnel data to understand how users move from visitors to leads and finally to customers. The objective was to identify drop-off points, evaluate traffic-to-lead and lead-to-customer conversion rates, compare channel and campaign performance, and provide actionable recommendations to improve overall conversions. This type of analysis is essential for startups, SaaS companies, digital marketing agencies, and sales teams, as optimizing conversion rates directly impacts revenue growth. Using tools such as Google Sheets, Google Docs, and Power BI, I strengthened my skills in funnel and conversion analysis, marketing and growth analytics, KPI tracking, and generating business-focused insights.
